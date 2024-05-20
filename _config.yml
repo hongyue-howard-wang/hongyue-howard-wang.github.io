@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hongyue 'Howard' Wang / HCI researcher"
+title                    : "Hongyue Wang / HCI researcher"
 title_separator          : "-"
 name                     : &name "Hongyue Wang"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Photo.png"
-  name             : "Hongyue 'Howard' Wang"
+  name             : "Hongyue Wang"
   pronouns         :  
   bio              : "PhD (c) Information Technology"
   location         : "Melbourne, Victoria, Australia"
