@@ -32,7 +32,6 @@
   }
 
   @include breakpoint($x-large) {
-    width: 250px;
     max-width: $sidebar-link-max-width;
     padding-right: 0;
   }
