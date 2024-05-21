@@ -10,7 +10,7 @@ author_profile: false
 <col width="10%" />
 <col width="90%" />
 </colgroup>
-<tbody>
+<tbody style="border: none;">
   
 <tr>
 <td style="border: none;" markdown="span">*Conference*</td>
