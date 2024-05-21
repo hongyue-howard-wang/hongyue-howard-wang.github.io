@@ -7,8 +7,8 @@ author_profile: false
 
 <table style="border-collapse: collapse; border: none;">
 <colgroup>
-<col width="20%" />
-<col width="80%" />
+<col width="15%" />
+<col width="85%" />
 </colgroup>
 <tbody style="border: none;">
 
