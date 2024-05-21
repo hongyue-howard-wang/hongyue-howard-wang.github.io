@@ -18,7 +18,7 @@ My name is Hongyue Wang, I am a Ph.D. student in <a href="https://exertiongamesl
 <li><p style="text-align:justify"><b>03/2024:</b> Our two <b>ACM CHI 2024</b> late-breaking works have been accepted! Thanks to all the co-authors!</p></li>
 <li><p style="text-align:justify"><b>09/2023:</b> I will join <b>Exertion Games Lab</b> at Monash University as a Ph.D. student. Another new journey strats!🎉</p></li>
 <li><p style="text-align:justify"><b>05/2023:</b> I was awarded <b>Monash University-China Scholarship Council (CSC) Joint Scholarship</b>!🔥</p></li>
-<li><p style="text-align:justify"><strong>12/2022:</strong> I was awarded <b>National Scholarship for Chinese University Students</b> (Top 1%)</p></li>
+<li><p style="text-align:justify"><strong>12/2022:</strong> I was awarded <b>National Scholarship for Chinese University Students</b> (Top 1%)!</p></li>
 
 
 </ul>
