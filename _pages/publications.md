@@ -23,7 +23,7 @@ author_profile: false
 </tr>
 
 <tr>
-<td style="border: none;"><img src="/images/penlab.png" width="250"></td>
+<td style="border: none;"><img src="/images/penlab2.png" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://dl.acm.org/doi/10.1145/3613905.3650789" target="_blank">**PenLab: Towards Understanding of Active Collaboration for Solid Geometry Teaching**</a><br>Dehui Kong, **Hongyue Wang**, Sijie Zhou, Hong Cui, Zhiquan Feng<br>*CHI EA '24: Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems*<br><a href="/_publications/penlab.pdf" target="_blank">[paper]</a></td>
 </tr>
 
@@ -39,7 +39,7 @@ author_profile: false
 </tr>
 
 <tr>
-<td style="border: none;" markdown="span"></td>
+<td style="border: none;"><img src="/images/challenges.png" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://www.sciencedirect.com/science/article/pii/S1071581923002069" target="_blank">**Grand challenges in human-food interaction**</a><br>Florian ‘Floyd’ Mueller, Marianna Obrist, Ferran Altarriba Bertran, Neharika Makam, Soh Kim, Christopher Dawes, Patrizia Marti, Maurizio Mancini, Eleonora Ceccaldi, Nandini Pasumarthy, Sahej Claire, Kyung seo Jung, Jialin Deng, Jürgen Steimle, Nadejda Krasteva, Matti Schwalk, Harald Reiterer, **Hongyue Wang**, Yan Wang<br>*International Journal of Human-Computer Studies* 2024<br><a href="/_publications/grand challenges.pdf" target="_blank">[paper]</a></td>
 </tr>
 
