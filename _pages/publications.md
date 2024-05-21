@@ -11,9 +11,14 @@ author_profile: false
 <col width="90%" />
 </colgroup>
 <tbody style="border: none;">
-  
+
 <tr>
-<td style="border: none;" markdown="span">*Conference*</td>
+  <td style="border: none;" markdown="span">*Conference*</td>
+  <td style="border: none;" markdown="span"></td>
+</tr>
+
+<tr>
+<td style="border: none;" markdown="span"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://doi.org/10.1145/3613905.3651082" target="_blank">**pic2eat: Facilitating Social Ice-breaking through Collaborative Design of 3D Printed Appetizer**</a><br>**Hongyue Wang**, Jialin Deng, Aravind Mohan, Yinyi Li, Hao Peng, Linjia He, Don Samitha Elvitigala, Florian 'Floyd' Mueller<br>*CHI EA '24: Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems*<br></td>
 </tr>
 
@@ -27,10 +32,18 @@ author_profile: false
 <td markdown="span" style="border: none; text-align:justify"><a href="https://link.springer.com/chapter/10.1007/978-981-19-4546-5_32">**Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception**</a><br>**Hongyue Wang**, Xin Meng, and Zhiquan Feng\*<br>*ChineseCSCW '21: Computer Supported Cooperative Work and Social Computing*<br><a href="/_publications/Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception.pdf" target="_blank">[paper]</a></td>
 </tr>
 
-
+<tr>
+  <td style="border: none;" markdown="span"></td>
+  <td style="border: none;" markdown="span"></td>
+</tr>
 
 <tr>
-<td style="border: none;" markdown="span">*Journal*</td>
+  <td style="border: none;" markdown="span">*Journal*</td>
+  <td style="border: none;" markdown="span"></td>
+</tr>
+
+<tr>
+<td style="border: none;" markdown="span"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://www.sciencedirect.com/science/article/pii/S1071581923002069" target="_blank">**Grand challenges in human-food interaction**</a><br>Florian ‘Floyd’ Mueller, Marianna Obrist, Ferran Altarriba Bertran, Neharika Makam, Soh Kim, Christopher Dawes, Patrizia Marti, Maurizio Mancini, Eleonora Ceccaldi, Nandini Pasumarthy, Sahej Claire, Kyung seo Jung, Jialin Deng, Jürgen Steimle, Nadejda Krasteva, Matti Schwalk, Harald Reiterer, **Hongyue Wang**, Yan Wang<br>*International Journal of Human-Computer Studies* 2024<br></td>
 </tr>
 
