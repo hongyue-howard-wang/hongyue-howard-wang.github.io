@@ -50,7 +50,7 @@ author_profile: false
 
 <tr>
 <td style="border: none;"><img src="/images/2023_robot.png" width="250"></td>
-<td markdown="span" style="border: none; text-align:justify"><a href="https://www.tandfonline.com/doi/abs/10.1080/10447318.2023.2247606?journalCode=hihc20" target="_blank">**MIUIC: A Human-Computer Collaborative Multimodal Intention-Understanding Algorithm Incorporating Comfort Analysis**</a><br>Liran Zhou, Zhiquan Feng\*, **Hongyue Wang**, and Qingbei Guo<br>*International Journal of Human-Computer Interaction* 2023<br><a href="/_publications/MRLab Virtual Reality Fusion Smart Laboratory Based on Multimodal Fusion.pdf" target="_blank">[paper]</a></td>
+<td markdown="span" style="border: none; text-align:justify"><a href="https://www.tandfonline.com/doi/abs/10.1080/10447318.2023.2247606?journalCode=hihc20" target="_blank">**MIUIC: A Human-Computer Collaborative Multimodal Intention-Understanding Algorithm Incorporating Comfort Analysis**</a><br>Liran Zhou, Zhiquan Feng\*, **Hongyue Wang**, and Qingbei Guo<br>*International Journal of Human-Computer Interaction* 2023<br><a href="/_publications/MIUIC.pdf" target="_blank">[paper]</a></td>
 </tr>
 
 <tr>
