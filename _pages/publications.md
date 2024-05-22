@@ -34,7 +34,7 @@ author_profile: false
 
 
 <tr>
-  <td style="border: none; font-size: 20px" markdown="span"><h1>*Journal*</h1></td>
+  <td style="border: none; font-size: 20px" markdown="span">*Journal*</td>
   <td style="border: none;" markdown="span"></td>
 </tr>
 
