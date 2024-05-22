@@ -23,7 +23,7 @@ author_profile: false
 </tr>
 
 <tr>
-<td style="border: none;"><img src="/images/penlab2.png" width="250"></td>
+<td style="border: none;"><img src="/images/penlab2.jpg" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://dl.acm.org/doi/10.1145/3613905.3650789" target="_blank">**PenLab: Towards Understanding of Active Collaboration for Solid Geometry Teaching**</a><br>Dehui Kong, **Hongyue Wang**, Sijie Zhou, Hong Cui, Zhiquan Feng<br>*CHI EA '24: Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems*<br><a href="/_publications/penlab.pdf" target="_blank">[paper]</a></td>
 </tr>
 
