@@ -13,10 +13,9 @@ author_profile: false
 <tbody style="border: none;">
 
 <tr>
-  <td style="border: none;" markdown="span"><h1>*Conference*</h1></td>
+  <td style="border: none; font-size: 20px" markdown="span">*Conference*</td>
   <td style="border: none;" markdown="span"></td>
 </tr>
-<h1>*Conference*</h1>
 
 <tr>
 <td style="border: none;" markdown="span"><img src="/images/pic2eat2.jpg" width="250"></td>
@@ -35,10 +34,10 @@ author_profile: false
 
 
 <tr>
-  <td style="border: none;" markdown="span"><h1>*Journal*</h1></td>
+  <td style="border: none; font-size: 20px" markdown="span"><h1>*Journal*</h1></td>
   <td style="border: none;" markdown="span"></td>
 </tr>
-<h1>*Journal*</h1>
+
 <tr>
 <td style="border: none;"><img src="/images/challenges.png" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://www.sciencedirect.com/science/article/pii/S1071581923002069" target="_blank">**Grand challenges in human-food interaction**</a><br>Florian ‘Floyd’ Mueller, Marianna Obrist, Ferran Altarriba Bertran, Neharika Makam, Soh Kim, Christopher Dawes, Patrizia Marti, Maurizio Mancini, Eleonora Ceccaldi, Nandini Pasumarthy, Sahej Claire, Kyung seo Jung, Jialin Deng, Jürgen Steimle, Nadejda Krasteva, Matti Schwalk, Harald Reiterer, **Hongyue Wang**, Yan Wang<br>*International Journal of Human-Computer Studies* 2024<br><a href="/_publications/grand challenges.pdf" target="_blank">[paper]</a></td>
