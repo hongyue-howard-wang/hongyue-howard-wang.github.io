@@ -28,7 +28,7 @@ author_profile: false
 </tr>
 
 <tr>
-<td style="border: none;"><img src="/images/X.png" width="250"></td>
+<td style="border: none;"><img src="/images/glove3.jpg" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://link.springer.com/chapter/10.1007/978-981-19-4546-5_32">**Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception**</a><br>**Hongyue Wang**, Xin Meng, and Zhiquan Feng\*<br>*ChineseCSCW '21: Computer Supported Cooperative Work and Social Computing*<br><a href="/_publications/Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception.pdf" target="_blank">[paper]</a></td>
 </tr>
 
