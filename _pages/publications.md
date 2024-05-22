@@ -54,12 +54,12 @@ author_profile: false
 </tr>
 
 <tr>
-<td style="border: none;"></td>
+<td style="border: none;"><img src="/images/glove2.png" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200549">**Multimodal Information Perception and Understanding: Application of Smart Glove in Virtual-Reality Fusion Chemistry Experiment Platform**</a><br>**Hongyue Wang**, Zhiquan Feng\*, and Xin Meng<br>*Advanced Materials Technologies* 2023<br><a href="/_publications/Multimodal Information Perception and Understanding：Application of Smart Glove in Virtual-Reality Fusion Chemistry Experiment Platform.pdf" target="_blank">[paper]</a><a href="https://youtu.be/8btwYEO1cd4" target="_blank">[video]</a></td>
 </tr>
 
 <tr>
-<td style="border: none;"></td>
+<td style="border: none;"><img src="/images/glove1.png" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://www.hindawi.com/journals/cin/2022/3545850/" target="_blank">**MFA: A Smart Glove with Multimodal Intent Sensing Capability**</a><br>**Hongyue Wang**, Zhiquan Feng\*, Jinglan Tian, and Xue Fan<br>*Computational Intelligence and Neuroscience* 2022<br><a href="/_publications/MFA：A Smart Glove with Multimodal Intent Sensing Capability.pdf" target="_blank">[paper]</a></td>
 </tr>
 
