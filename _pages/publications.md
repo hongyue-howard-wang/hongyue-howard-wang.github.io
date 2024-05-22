@@ -13,9 +13,10 @@ author_profile: false
 <tbody style="border: none;">
 
 <tr>
-  <td style="border: none;" markdown="span">*Conference*</td>
+  <td style="border: none;" markdown="span"><h1>*Conference*</h1></td>
   <td style="border: none;" markdown="span"></td>
 </tr>
+
 
 <tr>
 <td style="border: none;" markdown="span"><img src="/images/pic2eat2.jpg" width="250"></td>
@@ -34,7 +35,7 @@ author_profile: false
 
 
 <tr>
-  <td style="border: none;" markdown="span">*Journal*</td>
+  <td style="border: none;" markdown="span"><h1>*Journal*</h1></td>
   <td style="border: none;" markdown="span"></td>
 </tr>
 
