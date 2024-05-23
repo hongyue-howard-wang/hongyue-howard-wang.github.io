@@ -24,7 +24,7 @@ author_profile: false
 
 <tr>
 <td style="border: none;"><img src="/images/Royal Guards.png" width="250"></td>
-<td markdown="span" style="border: none; text-align:justify"><a href="https://www.hindawi.com/journals/cin/2022/3545850/" target="_blank">**Royal Guards**</a><br>Award: The First Prize for the 16th Shandong Software Design Competition, 2018<br>Developers: *Hongyue Wang*, Yuchen Song, Zhi Ren, Songbo Sun 2018<br><a href="https://youtu.be/XeN8KAS22Oc" target="_blank">[video]</a></td>
+<td markdown="span" style="border: none; text-align:justify"><a href="https://www.hindawi.com/journals/cin/2022/3545850/" target="_blank">**Royal Guards**</a><br>Award: The First Prize for the 16th Shandong Software Design Competition, 2018<br>Developers: **Hongyue Wang**, Yuchen Song, Zhi Ren, Songbo Sun 2018<br><a href="https://youtu.be/XeN8KAS22Oc" target="_blank">[video]</a></td>
 </tr>
 
 
