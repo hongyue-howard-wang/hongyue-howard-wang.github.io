@@ -63,5 +63,16 @@ author_profile: false
 <td markdown="span" style="border: none; text-align:justify"><a href="https://www.hindawi.com/journals/cin/2022/3545850/" target="_blank">**MFA: A Smart Glove with Multimodal Intent Sensing Capability**</a><br>**Hongyue Wang**, Zhiquan Feng\*, Jinglan Tian, and Xue Fan<br>*Computational Intelligence and Neuroscience* 2022<br><a href="../files/MFA.pdf" target="_blank">[paper]</a></td>
 </tr>
 
+
+<tr>
+  <td style="border: none; font-size: 20px" markdown="span">*Project*</td>
+  <td style="border: none;" markdown="span"></td>
+</tr>
+
+<tr>
+<td style="border: none;"><img src="/images/X.png" width="250"></td>
+<td markdown="span" style="border: none; text-align:justify"><a href="https://www.hindawi.com/journals/cin/2022/3545850/" target="_blank">**The Open Teaching Experiment Environment of Virtual Reality Integration with Multimodal Natural Interaction**</a><br>Supported by *the National Key Research and Development Program of China* (Grant No. 2018YFB1004900)<br>*Computational Intelligence and Neuroscience* 2022<br></td>
+</tr>
+
 </tbody>
 </table>
