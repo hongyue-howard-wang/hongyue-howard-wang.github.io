@@ -74,5 +74,12 @@ author_profile: false
 <td markdown="span" style="border: none; text-align:justify"><a href="https://www.hindawi.com/journals/cin/2022/3545850/" target="_blank">**The Open Teaching Experiment Environment of Virtual Reality Integration with Multimodal Natural Interaction**</a><br>Supported by *the National Key Research and Development Program of China* (Grant No. 2018YFB1004900)<br>*Computational Intelligence and Neuroscience* 2022<br></td>
 </tr>
 
+<tr>
+<td style="border: none;"><img src="/images/Royal Guards.png" width="250"></td>
+<td markdown="span" style="border: none; text-align:justify"><a href="https://www.hindawi.com/journals/cin/2022/3545850/" target="_blank">**Royal Guards**</a><br>Award: The First Prize for the 16th Shandong Software Design Competition, 2018<br>Authors: *Hongyue Wang*, Yuchen Song, Zhi Ren, Songbo Sun 2018<br><a href="https://youtu.be/XeN8KAS22Oc" target="_blank">[video]</a></td>
+</tr>
+
+
+
 </tbody>
 </table>
