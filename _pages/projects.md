@@ -18,7 +18,7 @@ author_profile: false
 </tr>
 
 <tr>
-<td style="border: none;"><img src="/images/vr.png" width="250"></td>
+<td style="border: none;"><img src="/images/2023_robot.png" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://www.hindawi.com/journals/cin/2022/3545850/" target="_blank">**Research on Collaborative Protection Mechanism for Personal Safety of Elderly Care Robots (面向老年陪护机器人的人身安全协同保护机制研究)**</a><br>Supported by *Independent Training and Innovation Team Project of Jinan (济南市高校自主培养创新团队领军人才项目)* (Grant No. 2019GXRC013)<br>2021-2022<br></td>
 </tr>
 
