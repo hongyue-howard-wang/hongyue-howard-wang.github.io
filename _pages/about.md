@@ -34,7 +34,7 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 <tbody style="border: none;">
 
 <tr>
-  <td style="border: none; font-size: 20px" markdown="span">*Conference*</td>
+  <td style="border: none; font-size: 20px" markdown="span"><h1>Full Paper Publications</h1></td>
   <td style="border: none;" markdown="span"></td>
 </tr>
 
@@ -55,7 +55,7 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 
 
 <tr>
-  <td style="border: none; font-size: 20px" markdown="span">*Journal*</td>
+  <td style="border: none; font-size: 20px" markdown="span">Workshop Papers, Extended Abstracts, and Doctoral Consortium</td>
   <td style="border: none;" markdown="span"></td>
 </tr>
 
