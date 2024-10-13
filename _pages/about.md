@@ -6,10 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<h2>Hi there!</h2>
 <p style="text-align:justify">
-My name is Hongyue Wang, I am a Ph.D. student in <a href="https://exertiongameslab.org/">Exertion games Lab</a> directed by Prof. <a href="https://www.florianfloydmueller.com/">Florian 'Floyd' Mueller</a> working on Human-Food Interaction (Associate Supervisor: Dr. <a href="https://samithaelvitigala.com/">Don Samitha Elvitigala</a> and Dr. <a href="https://nathansemertzidis.com/">Nathan Semertzidis</a>) at Monash University, Australia. I bring with me a rich background in HCI, XR, and AI development. My academic journey began at the University of Jinan, China, where I earned both my Bachelor's and Master's degrees in Computer Science and Technology, mentored by Prof. Zhiquan Feng.
+I am a Ph.D. student in <a href="https://exertiongameslab.org/">Exertion games Lab</a> supervised by Prof. <a href="https://www.florianfloydmueller.com/">Florian 'Floyd' Mueller</a> working on Human-Food Interaction (Secondary Supervisor: Dr. <a href="https://samithaelvitigala.com/">Don Samitha Elvitigala</a>) at Monash University, Australia. My research interest lies in the intersection of technology, design and interaction. Currently, I am towards on designing interactive system to enrich culinary creativity, and exploring embeding digital contents into our daily eating.
 </p>
 
 <h2>My research interests</h2>
