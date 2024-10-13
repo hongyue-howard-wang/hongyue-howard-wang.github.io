@@ -31,8 +31,8 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 <col width="15%" />
 <col width="85%" />
 </colgroup>
-<tbody style="border: none;">
 
+<tbody style="border: none;">
 <tr>
   <h1>Full Paper Publications</h1>
 </tr>
@@ -51,12 +51,17 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 <td style="border: none;"><img src="/images/glove3.jpg" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://link.springer.com/chapter/10.1007/978-981-19-4546-5_32">**Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception**</a><br>**Hongyue Wang**, Xin Meng, and Zhiquan Feng\*<br>*ChineseCSCW '21: Computer Supported Cooperative Work and Social Computing*<br><a href="../files/Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception.pdf" target="_blank">[paper]</a></td>
 </tr>
+</tbody>
+</table>
 
+<h1>Workshop Papers, Extended Abstracts, and Doctoral Consortium</h1>
+<table style="border-collapse: collapse; border: none;">
+<colgroup>
+<col width="15%" />
+<col width="85%" />
+</colgroup>
 
-<tr>
-  <h1>Workshop Papers, Extended Abstracts, and Doctoral Consortium</h1>
-</tr>
-
+<tbody style="border: none;">
 <tr>
 <td style="border: none;"><img src="/images/challenges.png" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://www.sciencedirect.com/science/article/pii/S1071581923002069" target="_blank">**Grand challenges in human-food interaction**</a><br>Florian ‘Floyd’ Mueller, Marianna Obrist, Ferran Altarriba Bertran, Neharika Makam, Soh Kim, Christopher Dawes, Patrizia Marti, Maurizio Mancini, Eleonora Ceccaldi, Nandini Pasumarthy, Sahej Claire, Kyung seo Jung, Jialin Deng, Jürgen Steimle, Nadejda Krasteva, Matti Schwalk, Harald Reiterer, **Hongyue Wang**, Yan Wang<br>*International Journal of Human-Computer Studies* 2024<br><a href="../files/grand challenges.pdf" target="_blank">[paper]</a></td>
