@@ -32,6 +32,7 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 </colgroup>
 
 <tbody style="border: none;">
+
 <tr>
 <td style="border: none;"><img src="/images/challenges.png" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://www.sciencedirect.com/science/article/pii/S1071581923002069" target="_blank">**Grand challenges in human-food interaction**</a><br>Florian ‘Floyd’ Mueller, Marianna Obrist, Ferran Altarriba Bertran, Neharika Makam, Soh Kim, Christopher Dawes, Patrizia Marti, Maurizio Mancini, Eleonora Ceccaldi, Nandini Pasumarthy, Sahej Claire, Kyung seo Jung, Jialin Deng, Jürgen Steimle, Nadejda Krasteva, Matti Schwalk, Harald Reiterer, **Hongyue Wang**, Yan Wang<br>*International Journal of Human-Computer Studies* 2024<br><a href="../files/grand challenges.pdf" target="_blank">[paper]</a></td>
@@ -77,17 +78,17 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 
 <tr>
 <td style="border: none;" markdown="span"><img src="/images/pic2eat2.jpg" width="250"></td>
-<td markdown="span" style="border: none; text-align:justify"><a href="https://doi.org/10.1145/3613905.3651082" target="_blank">**pic2eat: Facilitating Social Ice-breaking through Collaborative Design of 3D Printed Appetizer**</a><br>**Hongyue Wang**, Jialin Deng, Aravind Mohan, Yinyi Li, Hao Peng, Linjia He, Don Samitha Elvitigala, Florian 'Floyd' Mueller<br>*ACM CHI Conference on Human Factors in Computing Systems <br>(CHI 2024 Extended Abstract)</br>*<br><a href="../files/pic2eat.pdf" target="_blank">[paper]</a><a href="https://www.youtube.com/watch?v=d0GZcocqnV0" target="_blank">[video]</a></td>
+<td markdown="span" style="border: none; text-align:justify"><a href="https://doi.org/10.1145/3613905.3651082" target="_blank">**pic2eat: Facilitating Social Ice-breaking through Collaborative Design of 3D Printed Appetizer**</a><br>**Hongyue Wang**, Jialin Deng, Aravind Mohan, Yinyi Li, Hao Peng, Linjia He, Don Samitha Elvitigala, Florian 'Floyd' Mueller<br>*ACM CHI Conference on Human Factors in Computing Systems __(CHI 2024 Extended Abstract)__*<br><a href="../files/pic2eat.pdf" target="_blank">[paper]</a><a href="https://www.youtube.com/watch?v=d0GZcocqnV0" target="_blank">[video]</a></td>
 </tr>
 
 <tr>
 <td style="border: none;"><img src="/images/penlab2.jpg" width="250"></td>
-<td markdown="span" style="border: none; text-align:justify"><a href="https://dl.acm.org/doi/10.1145/3613905.3650789" target="_blank">**PenLab: Towards Understanding of Active Collaboration for Solid Geometry Teaching**</a><br>Dehui Kong, **Hongyue Wang**, Sijie Zhou, Hong Cui, Zhiquan Feng<br>*ACM CHI Conference on Human Factors in Computing Systems <br>(CHI 2024 Extended Abstract)</br>*<br><a href="../files/penlab.pdf" target="_blank">[paper]</a><a href="https://www.youtube.com/watch?v=KzXrsdY8Xhw" target="_blank">[video]</a></td>
+<td markdown="span" style="border: none; text-align:justify"><a href="https://dl.acm.org/doi/10.1145/3613905.3650789" target="_blank">**PenLab: Towards Understanding of Active Collaboration for Solid Geometry Teaching**</a><br>Dehui Kong, **Hongyue Wang**, Sijie Zhou, Hong Cui, Zhiquan Feng<br>*ACM CHI Conference on Human Factors in Computing Systems __(CHI 2024 Extended Abstract)__*<br><a href="../files/penlab.pdf" target="_blank">[paper]</a><a href="https://www.youtube.com/watch?v=KzXrsdY8Xhw" target="_blank">[video]</a></td>
 </tr>
 
 <tr>
 <td style="border: none;"><img src="/images/ar-cyclying.jpeg" width="250"></td>
-<td markdown="span" style="border: none; text-align:justify"><a href="https://dl.acm.org/doi/abs/10.1145/3656156.3663699" target="_blank">**Pedalling into the Future: Towards Enhancing Cycling Experience Using Augmented Reality**</a><br>Linjia He, **Hongyue Wang**, Sarah Goodwin, Benjamin Tag, Don Samitha Elvitigala<br>*ACM Designing Interactive Systems Conference <br>(DIS 2024 Extended Abstract)</br>*<br><a href="../files/penlab.pdf" target="_blank">[paper]</a><a href="https://www.youtube.com/watch?v=KzXrsdY8Xhw" target="_blank">[video]</a></td>
+<td markdown="span" style="border: none; text-align:justify"><a href="https://dl.acm.org/doi/abs/10.1145/3656156.3663699" target="_blank">**Pedalling into the Future: Towards Enhancing Cycling Experience Using Augmented Reality**</a><br>Linjia He, **Hongyue Wang**, Sarah Goodwin, Benjamin Tag, Don Samitha Elvitigala<br>*ACM Designing Interactive Systems Conference __(DIS 2024 Extended Abstract)__*<br><a href="../files/penlab.pdf" target="_blank">[paper]</a><a href="https://www.youtube.com/watch?v=KzXrsdY8Xhw" target="_blank">[video]</a></td>
 </tr>
 
 
