@@ -34,34 +34,6 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 </colgroup>
 
 <tbody style="border: none;">
-
-<tr>
-<td style="border: none;" markdown="span"><img src="/images/pic2eat2.jpg" width="250"></td>
-<td markdown="span" style="border: none; text-align:justify"><a href="https://doi.org/10.1145/3613905.3651082" target="_blank">**pic2eat: Facilitating Social Ice-breaking through Collaborative Design of 3D Printed Appetizer**</a><br>**Hongyue Wang**, Jialin Deng, Aravind Mohan, Yinyi Li, Hao Peng, Linjia He, Don Samitha Elvitigala, Florian 'Floyd' Mueller<br>*CHI EA '24: Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems*<br><a href="../files/pic2eat.pdf" target="_blank">[paper]</a><a href="https://www.youtube.com/watch?v=d0GZcocqnV0" target="_blank">[video]</a></td>
-</tr>
-
-<tr>
-<td style="border: none;"><img src="/images/penlab2.jpg" width="250"></td>
-<td markdown="span" style="border: none; text-align:justify"><a href="https://dl.acm.org/doi/10.1145/3613905.3650789" target="_blank">**PenLab: Towards Understanding of Active Collaboration for Solid Geometry Teaching**</a><br>Dehui Kong, **Hongyue Wang**, Sijie Zhou, Hong Cui, Zhiquan Feng<br>*CHI EA '24: Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems*<br><a href="../files/penlab.pdf" target="_blank">[paper]</a><a href="https://www.youtube.com/watch?v=KzXrsdY8Xhw" target="_blank">[video]</a></td>
-</tr>
-
-<tr>
-<td style="border: none;"><img src="/images/glove3.jpg" width="250"></td>
-<td markdown="span" style="border: none; text-align:justify"><a href="https://link.springer.com/chapter/10.1007/978-981-19-4546-5_32">**Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception**</a><br>**Hongyue Wang**, Xin Meng, and Zhiquan Feng\*<br>*ChineseCSCW '21: Computer Supported Cooperative Work and Social Computing*<br><a href="../files/Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception.pdf" target="_blank">[paper]</a></td>
-</tr>
-</tbody>
-</table>
-
-
-
-<h2>Workshop Papers, Extended Abstracts, and Doctoral Consortium</h2>
-<table style="border-collapse: collapse; border: none;">
-<colgroup>
-<col width="15%" />
-<col width="85%" />
-</colgroup>
-
-<tbody style="border: none;">
 <tr>
 <td style="border: none;"><img src="/images/challenges.png" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://www.sciencedirect.com/science/article/pii/S1071581923002069" target="_blank">**Grand challenges in human-food interaction**</a><br>Florian ‘Floyd’ Mueller, Marianna Obrist, Ferran Altarriba Bertran, Neharika Makam, Soh Kim, Christopher Dawes, Patrizia Marti, Maurizio Mancini, Eleonora Ceccaldi, Nandini Pasumarthy, Sahej Claire, Kyung seo Jung, Jialin Deng, Jürgen Steimle, Nadejda Krasteva, Matti Schwalk, Harald Reiterer, **Hongyue Wang**, Yan Wang<br>*International Journal of Human-Computer Studies* 2024<br><a href="../files/grand challenges.pdf" target="_blank">[paper]</a></td>
@@ -86,6 +58,36 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 <td style="border: none;"><img src="/images/glove1.png" width="250"></td>
 <td markdown="span" style="border: none; text-align:justify"><a href="https://www.hindawi.com/journals/cin/2022/3545850/" target="_blank">**MFA: A Smart Glove with Multimodal Intent Sensing Capability**</a><br>**Hongyue Wang**, Zhiquan Feng\*, Jinglan Tian, and Xue Fan<br>*Computational Intelligence and Neuroscience* 2022<br><a href="../files/MFA.pdf" target="_blank">[paper]</a></td>
 </tr>
+
+<tr>
+<td style="border: none;"><img src="/images/glove3.jpg" width="250"></td>
+<td markdown="span" style="border: none; text-align:justify"><a href="https://link.springer.com/chapter/10.1007/978-981-19-4546-5_32">**Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception**</a><br>**Hongyue Wang**, Xin Meng, and Zhiquan Feng\*<br>*ChineseCSCW '21: Computer Supported Cooperative Work and Social Computing*<br><a href="../files/Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception.pdf" target="_blank">[paper]</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+<h2>Workshop Papers, Extended Abstracts, and Doctoral Consortium</h2>
+<table style="border-collapse: collapse; border: none;">
+<colgroup>
+<col width="15%" />
+<col width="85%" />
+</colgroup>
+
+<tbody style="border: none;">
+
+<tr>
+<td style="border: none;" markdown="span"><img src="/images/pic2eat2.jpg" width="250"></td>
+<td markdown="span" style="border: none; text-align:justify"><a href="https://doi.org/10.1145/3613905.3651082" target="_blank">**pic2eat: Facilitating Social Ice-breaking through Collaborative Design of 3D Printed Appetizer**</a><br>**Hongyue Wang**, Jialin Deng, Aravind Mohan, Yinyi Li, Hao Peng, Linjia He, Don Samitha Elvitigala, Florian 'Floyd' Mueller<br>*CHI EA '24: Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems*<br><a href="../files/pic2eat.pdf" target="_blank">[paper]</a><a href="https://www.youtube.com/watch?v=d0GZcocqnV0" target="_blank">[video]</a></td>
+</tr>
+
+<tr>
+<td style="border: none;"><img src="/images/penlab2.jpg" width="250"></td>
+<td markdown="span" style="border: none; text-align:justify"><a href="https://dl.acm.org/doi/10.1145/3613905.3650789" target="_blank">**PenLab: Towards Understanding of Active Collaboration for Solid Geometry Teaching**</a><br>Dehui Kong, **Hongyue Wang**, Sijie Zhou, Hong Cui, Zhiquan Feng<br>*CHI EA '24: Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems*<br><a href="../files/penlab.pdf" target="_blank">[paper]</a><a href="https://www.youtube.com/watch?v=KzXrsdY8Xhw" target="_blank">[video]</a></td>
+</tr>
+
+
 
 
 
