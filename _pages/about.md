@@ -88,7 +88,7 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 
 <tr>
 <td style="border: none;"><img src="/images/ar-cyclying.jpeg" width="250"></td>
-<td markdown="span" style="border: none; text-align:justify"><a href="https://dl.acm.org/doi/abs/10.1145/3656156.3663699" target="_blank">**Pedalling into the Future: Towards Enhancing Cycling Experience Using Augmented Reality**</a><br>Linjia He, **Hongyue Wang**, Sarah Goodwin, Benjamin Tag, Don Samitha Elvitigala<br>*ACM Designing Interactive Systems Conference __(DIS 2024 Extended Abstract)__*<br><a href="../files/penlab.pdf" target="_blank">[paper]</a></td>
+<td markdown="span" style="border: none; text-align:justify"><a href="https://dl.acm.org/doi/abs/10.1145/3656156.3663699" target="_blank">**Pedalling into the Future: Towards Enhancing Cycling Experience Using Augmented Reality**</a><br>Linjia He, **Hongyue Wang**, Sarah Goodwin, Benjamin Tag, Don Samitha Elvitigala<br>*ACM Designing Interactive Systems Conference __(DIS 2024 Extended Abstract)__*<br><a href="../files/Pedalling into the Future.pdf" target="_blank">[paper]</a></td>
 </tr>
 
 
