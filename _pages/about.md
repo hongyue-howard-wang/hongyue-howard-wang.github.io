@@ -105,3 +105,8 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 <li><p style="text-align:justify"><b>2023: </b> Monash University-China Scholarship Council (CSC) Joint Scholarship</p></li>
 <li><p style="text-align:justify"><b>2023: </b> National Scholarship for Chinese University Students (Top 1%)</p></li>
 </ul>
+
+<h2>Selected Teaching Experience</h2>
+<ul>
+<li><p style="text-align:justify"><b>2024: </b> Mentoring Four Monash University Undergraduates' Final Year Project</p></li>
+</ul>
