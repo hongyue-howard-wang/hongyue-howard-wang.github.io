@@ -96,12 +96,12 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 
 <h2>Academic Service</h2>
 <ul>
-<li><p style="text-align:justify"><b>2025:</b>Paper reviewer: CHI 2025</p></li>
-<li><p style="text-align:justify"><b>2024:</b>Paper reviewer: IJHCI (International journal of Human-computer Interaction), DIS 2024, CHI 2024 Late-breaking work</p></li>
+<li><p style="text-align:justify"><b>2025: </b>Paper reviewer: CHI 2025</p></li>
+<li><p style="text-align:justify"><b>2024: </b>Paper reviewer: IJHCI (International journal of Human-computer Interaction) x 1, DIS 2024 x 1, CHI 2024 Late-breaking work x 3</p></li>
 </ul>
 
 <h2>Selected Honors and Grants</h2>
 <ul>
-<li><p style="text-align:justify"><b>05/2023:</b> Monash University-China Scholarship Council (CSC) Joint Scholarship</p></li>
-<li><p style="text-align:justify"><b>05/2023:</b> National Scholarship for Chinese University Students (Top 1%)</p></li>
+<li><p style="text-align:justify"><b>2023: </b> Monash University-China Scholarship Council (CSC) Joint Scholarship</p></li>
+<li><p style="text-align:justify"><b>2023: </b> National Scholarship for Chinese University Students (Top 1%)</p></li>
 </ul>
