@@ -20,8 +20,6 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 <li><p style="text-align:justify"><b>05/2024:</b> I will attend <b>ACM CHI 2024</b>! See you in Hawaii!😊</p></li>
 <li><p style="text-align:justify"><b>03/2024:</b> Our two <b>ACM CHI 2024</b> late-breaking works have been accepted! Thanks to all the co-authors!</p></li>
 <li><p style="text-align:justify"><b>09/2023:</b> I will join <b>Exertion Games Lab</b> at Monash University as a Ph.D. student. Another new journey strats!🎉</p></li>
-<li><p style="text-align:justify"><b>05/2023:</b> I was awarded <b>Monash University-China Scholarship Council (CSC) Joint Scholarship</b>!🔥</p></li>
-<li><p style="text-align:justify"><strong>12/2022:</strong> I was awarded <b>National Scholarship for Chinese University Students</b> (Top 1%)!</p></li>
 </ul>
 
 <h2>Full Paper Publications</h2>
@@ -95,3 +93,15 @@ Human-Computer Interaction, Extended Reality, Interactive System, Deep Learning,
 
 </tbody>
 </table>
+
+<h2>Academic Service</h2>
+<ul>
+<li><p style="text-align:justify"><b>2025:</b>Paper reviewer: CHI 2025</p></li>
+<li><p style="text-align:justify"><b>2024:</b>Paper reviewer: IJHCI (International journal of Human-computer Interaction), DIS 2024, CHI 2024 Late-breaking work</p></li>
+</ul>
+
+<h2>Selected Honors and Grants</h2>
+<ul>
+<li><p style="text-align:justify"><b>05/2023:</b> Monash University-China Scholarship Council (CSC) Joint Scholarship</p></li>
+<li><p style="text-align:justify"><b>05/2023:</b> National Scholarship for Chinese University Students (Top 1%)</p></li>
+</ul>
