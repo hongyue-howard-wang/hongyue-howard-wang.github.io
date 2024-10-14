@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hongyue Wang / HCI Researcher"
+title                    : "Hongyue Wang / HCI Researcher, RtD Practitioner"
 title_separator          : "-"
 name                     : &name "Hongyue Wang"
 description              : &description "personal description"
